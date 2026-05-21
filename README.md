@@ -69,4 +69,65 @@
   </figcapture>
 </figure>
 
- 
+
+<figure>
+  <figcapture>
+    <img width="752" height="272" alt="image" src="https://github.com/user-attachments/assets/c3b980a1-265b-4c2c-be97-2be6ab7cc76f" />
+
+  </figcapture>
+</figure>
+
+ <div align = "center">
+  <h1> Função Com Parametro Fixo🧮 </h1>
+</div>
+
+
+<figure>
+  <figcapture>
+ <img width="646" height="215" alt="image" src="https://github.com/user-attachments/assets/b24d611e-7cb4-4fd3-a7ba-2801b690f7cd" />
+
+  </figcapture>
+</figure>
+
+
+<figure>
+  <figcapture>
+<img width="1168" height="379" alt="image" src="https://github.com/user-attachments/assets/79054ef1-066d-440d-8651-2401fea170a8" />
+
+  </figcapture>
+</figure>
+
+
+ <div align = "center">
+  <h1> Exercicíos📝 </h1>
+</div>
+
+<figure>
+  <figcaption>
+    <img width="1485" height="360" alt="image" src="https://github.com/user-attachments/assets/680289d4-213d-48b7-a103-06c6770de08f" />
+
+  </figcaption>
+</figure>
+
+
+ <figure>
+   <figcaption>
+     <img width="1548" height="568" alt="image" src="https://github.com/user-attachments/assets/92823d5a-364b-4a1a-a923-e616af44a336" />
+
+   </figcaption>
+ </figure>
+
+<figure>
+  <figcaption>
+    <img width="922" height="383" alt="image" src="https://github.com/user-attachments/assets/a594a4ce-2dfa-4c65-b4f2-652b1cb114c5" />
+
+  </figcaption>
+</figure>
+
+
+<figure>
+  <figcaption>
+<img width="929" height="253" alt="image" src="https://github.com/user-attachments/assets/85917cfc-182e-4423-b89f-fef9e23d9f8c" />
+
+  </figcaption>
+</figure>
